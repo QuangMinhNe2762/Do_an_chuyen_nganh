@@ -1,0 +1,5060 @@
+[{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8222"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.052,
+  "sulphates": 0.9,
+  "alcohol": 13.4,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8223"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.068,
+  "sulphates": 0.46,
+  "alcohol": 11.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8224"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.086,
+  "sulphates": 0.59,
+  "alcohol": 10.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8225"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.063,
+  "sulphates": 0.83,
+  "alcohol": 10.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8226"
+  },
+  "volatile acidity": 0.685,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.55,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8227"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.07,
+  "sulphates": 0.57,
+  "alcohol": 10,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8228"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.147,
+  "sulphates": 0.86,
+  "alcohol": 9.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8229"
+  },
+  "volatile acidity": 0.745,
+  "chlorides": 0.077,
+  "sulphates": 0.47,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c822a"
+  },
+  "volatile acidity": 0.29,
+  "chlorides": 0.063,
+  "sulphates": 0.84,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c822b"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.07,
+  "sulphates": 0.57,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c822c"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.077,
+  "sulphates": 1.05,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c822d"
+  },
+  "volatile acidity": 0.685,
+  "chlorides": 0.1,
+  "sulphates": 0.68,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c822e"
+  },
+  "volatile acidity": 0.54,
+  "chlorides": 0.076,
+  "sulphates": 0.64,
+  "alcohol": 9.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c822f"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.147,
+  "sulphates": 0.86,
+  "alcohol": 9.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8230"
+  },
+  "volatile acidity": 1.09,
+  "chlorides": 0.061,
+  "sulphates": 0.43,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8231"
+  },
+  "volatile acidity": 0.765,
+  "chlorides": 0.064,
+  "sulphates": 0.55,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8232"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.077,
+  "sulphates": 1.05,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8233"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8234"
+  },
+  "volatile acidity": 0.56,
+  "chlorides": 0.065,
+  "sulphates": 0.68,
+  "alcohol": 10.55,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8235"
+  },
+  "volatile acidity": 0.44,
+  "chlorides": 0.074,
+  "sulphates": 0.85,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8236"
+  },
+  "volatile acidity": 0.55,
+  "chlorides": 0.072,
+  "sulphates": 0.48,
+  "alcohol": 9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8237"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.102,
+  "sulphates": 0.58,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8238"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.039,
+  "sulphates": 0.86,
+  "alcohol": 12.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8239"
+  },
+  "volatile acidity": 0.67,
+  "chlorides": 0.093,
+  "sulphates": 0.59,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c823a"
+  },
+  "volatile acidity": 0.635,
+  "chlorides": 0.241,
+  "sulphates": 0.59,
+  "alcohol": 10.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c823b"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.147,
+  "sulphates": 0.86,
+  "alcohol": 9.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c823c"
+  },
+  "volatile acidity": 0.67,
+  "chlorides": 0.093,
+  "sulphates": 0.59,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c823d"
+  },
+  "volatile acidity": 1.09,
+  "chlorides": 0.061,
+  "sulphates": 0.43,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c823e"
+  },
+  "volatile acidity": 0.955,
+  "chlorides": 0.075,
+  "sulphates": 0.44,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c823f"
+  },
+  "volatile acidity": 0.64,
+  "chlorides": 0.168,
+  "sulphates": 0.5,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8240"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.088,
+  "sulphates": 0.51,
+  "alcohol": 9.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8241"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.066,
+  "sulphates": 0.9,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8242"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.095,
+  "sulphates": 0.76,
+  "alcohol": 9.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8243"
+  },
+  "volatile acidity": 0.55,
+  "chlorides": 0.076,
+  "sulphates": 0.59,
+  "alcohol": 10.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8244"
+  },
+  "volatile acidity": 0.615,
+  "chlorides": 0.087,
+  "sulphates": 0.53,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8245"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.075,
+  "sulphates": 1.02,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8246"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.422,
+  "sulphates": 1.17,
+  "alcohol": 9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8247"
+  },
+  "volatile acidity": 0.34,
+  "chlorides": 0.065,
+  "sulphates": 0.54,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8248"
+  },
+  "volatile acidity": 0.725,
+  "chlorides": 0.086,
+  "sulphates": 0.39,
+  "alcohol": 10.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8249"
+  },
+  "volatile acidity": 0.67,
+  "chlorides": 0.118,
+  "sulphates": 0.67,
+  "alcohol": 11.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c824a"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.08,
+  "sulphates": 0.62,
+  "alcohol": 10.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c824b"
+  },
+  "volatile acidity": 0.295,
+  "chlorides": 0.073,
+  "sulphates": 0.51,
+  "alcohol": 10.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c824c"
+  },
+  "volatile acidity": 0.98,
+  "chlorides": 0.061,
+  "sulphates": 0.55,
+  "alcohol": 9.7,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c824d"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.06,
+  "sulphates": 0.74,
+  "alcohol": 14,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c824e"
+  },
+  "volatile acidity": 0.44,
+  "chlorides": 0.074,
+  "sulphates": 0.85,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c824f"
+  },
+  "volatile acidity": 0.84,
+  "chlorides": 0.059,
+  "sulphates": 0.56,
+  "alcohol": 12.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8250"
+  },
+  "volatile acidity": 0.56,
+  "chlorides": 0.064,
+  "sulphates": 0.62,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8251"
+  },
+  "volatile acidity": 0.34,
+  "chlorides": 0.052,
+  "sulphates": 0.69,
+  "alcohol": 12.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8252"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.076,
+  "sulphates": 0.58,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8253"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.066,
+  "sulphates": 0.9,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8254"
+  },
+  "volatile acidity": 0.935,
+  "chlorides": 0.105,
+  "sulphates": 0.64,
+  "alcohol": 11.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8255"
+  },
+  "volatile acidity": 0.26,
+  "chlorides": 0.083,
+  "sulphates": 0.63,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8256"
+  },
+  "volatile acidity": 0.68,
+  "chlorides": 0.072,
+  "sulphates": 1.08,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8257"
+  },
+  "volatile acidity": 1.58,
+  "chlorides": 0.1369999999999999,
+  "sulphates": 0.4,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8258"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.045,
+  "sulphates": 0.48,
+  "alcohol": 10.5,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8259"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.2,
+  "sulphates": 0.63,
+  "alcohol": 8.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c825a"
+  },
+  "volatile acidity": 0.885,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.33,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c825b"
+  },
+  "volatile acidity": 0.28,
+  "chlorides": 0.067,
+  "sulphates": 1.04,
+  "alcohol": 10.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c825c"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c825d"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.066,
+  "sulphates": 0.6,
+  "alcohol": 13,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c825e"
+  },
+  "volatile acidity": 0.51,
+  "chlorides": 0.107,
+  "sulphates": 0.66,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c825f"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.045,
+  "sulphates": 0.48,
+  "alcohol": 10.5,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8260"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.061,
+  "sulphates": 1.1,
+  "alcohol": 10,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8261"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.171,
+  "sulphates": 0.76,
+  "alcohol": 10.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8262"
+  },
+  "volatile acidity": 0.765,
+  "chlorides": 0.084,
+  "sulphates": 0.68,
+  "alcohol": 10.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8263"
+  },
+  "volatile acidity": 0.23,
+  "chlorides": 0.063,
+  "sulphates": 0.63,
+  "alcohol": 11.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8264"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.118,
+  "sulphates": 0.75,
+  "alcohol": 9.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8265"
+  },
+  "volatile acidity": 0.735,
+  "chlorides": 0.081,
+  "sulphates": 0.57,
+  "alcohol": 9.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8266"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.104,
+  "sulphates": 0.58,
+  "alcohol": 9.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8267"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.102,
+  "sulphates": 0.58,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8268"
+  },
+  "volatile acidity": 0.55,
+  "chlorides": 0.072,
+  "sulphates": 0.48,
+  "alcohol": 9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8269"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.095,
+  "sulphates": 0.76,
+  "alcohol": 9.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c826a"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.2,
+  "sulphates": 0.63,
+  "alcohol": 8.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c826b"
+  },
+  "volatile acidity": 0.875,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.52,
+  "alcohol": 10.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c826c"
+  },
+  "volatile acidity": 0.56,
+  "chlorides": 0.105,
+  "sulphates": 0.52,
+  "alcohol": 11,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c826d"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.05,
+  "sulphates": 0.51,
+  "alcohol": 12.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c826e"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.109,
+  "sulphates": 0.79,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c826f"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.069,
+  "sulphates": 0.66,
+  "alcohol": 12.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8270"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.06,
+  "sulphates": 0.83,
+  "alcohol": 10.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8271"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.083,
+  "sulphates": 0.55,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8272"
+  },
+  "volatile acidity": 0.25,
+  "chlorides": 0.0409999999999999,
+  "sulphates": 0.71,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8273"
+  },
+  "volatile acidity": 1.58,
+  "chlorides": 0.1369999999999999,
+  "sulphates": 0.4,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8274"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.083,
+  "sulphates": 0.55,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8275"
+  },
+  "volatile acidity": 0.29,
+  "chlorides": 0.063,
+  "sulphates": 0.84,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8276"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.2,
+  "sulphates": 0.63,
+  "alcohol": 8.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8277"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.071,
+  "sulphates": 0.69,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8278"
+  },
+  "volatile acidity": 0.54,
+  "chlorides": 0.071,
+  "sulphates": 0.62,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8279"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.123,
+  "sulphates": 0.67,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c827a"
+  },
+  "volatile acidity": 0.18,
+  "chlorides": 0.071,
+  "sulphates": 0.76,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c827b"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.063,
+  "sulphates": 0.81,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c827c"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.07,
+  "sulphates": 0.77,
+  "alcohol": 12.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c827d"
+  },
+  "volatile acidity": 0.685,
+  "chlorides": 0.099,
+  "sulphates": 0.6,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c827e"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c827f"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.075,
+  "sulphates": 0.71,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8280"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.062,
+  "sulphates": 0.73,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8281"
+  },
+  "volatile acidity": 0.98,
+  "chlorides": 0.061,
+  "sulphates": 0.55,
+  "alcohol": 9.7,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8282"
+  },
+  "volatile acidity": 0.315,
+  "chlorides": 0.084,
+  "sulphates": 0.7,
+  "alcohol": 9.2,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8283"
+  },
+  "volatile acidity": 0.34,
+  "chlorides": 0.065,
+  "sulphates": 0.54,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8284"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.07,
+  "sulphates": 0.91,
+  "alcohol": 11,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8285"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.07,
+  "sulphates": 0.57,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8286"
+  },
+  "volatile acidity": 0.57,
+  "chlorides": 0.054,
+  "sulphates": 0.84,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8287"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.071,
+  "sulphates": 0.49,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8288"
+  },
+  "volatile acidity": 0.43,
+  "chlorides": 0.085,
+  "sulphates": 0.55,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8289"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.054,
+  "sulphates": 0.56,
+  "alcohol": 13.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c828a"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.07,
+  "sulphates": 0.65,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c828b"
+  },
+  "volatile acidity": 0.74,
+  "chlorides": 0.0409999999999999,
+  "sulphates": 0.59,
+  "alcohol": 12.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c828c"
+  },
+  "volatile acidity": 0.55,
+  "chlorides": 0.072,
+  "sulphates": 0.48,
+  "alcohol": 9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c828d"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.061,
+  "sulphates": 0.49,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c828e"
+  },
+  "volatile acidity": 0.54,
+  "chlorides": 0.076,
+  "sulphates": 0.72,
+  "alcohol": 13.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c828f"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8290"
+  },
+  "volatile acidity": 0.57,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.55,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8291"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.073,
+  "sulphates": 0.52,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8292"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.068,
+  "sulphates": 0.85,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8293"
+  },
+  "volatile acidity": 0.57,
+  "chlorides": 0.12,
+  "sulphates": 0.71,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8294"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.077,
+  "sulphates": 0.53,
+  "alcohol": 10.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8295"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.073,
+  "sulphates": 0.82,
+  "alcohol": 12.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8296"
+  },
+  "volatile acidity": 0.78,
+  "chlorides": 0.059,
+  "sulphates": 0.56,
+  "alcohol": 11.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8297"
+  },
+  "volatile acidity": 0.705,
+  "chlorides": 0.092,
+  "sulphates": 0.72,
+  "alcohol": 10,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8298"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.2,
+  "sulphates": 0.63,
+  "alcohol": 8.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8299"
+  },
+  "volatile acidity": 0.615,
+  "chlorides": 0.083,
+  "sulphates": 0.73,
+  "alcohol": 10,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c829a"
+  },
+  "volatile acidity": 0.875,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.52,
+  "alcohol": 10.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c829b"
+  },
+  "volatile acidity": 0.69,
+  "chlorides": 0.075,
+  "sulphates": 0.61,
+  "alcohol": 9.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c829c"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c829d"
+  },
+  "volatile acidity": 1.58,
+  "chlorides": 0.1369999999999999,
+  "sulphates": 0.4,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c829e"
+  },
+  "volatile acidity": 1.04,
+  "chlorides": 0.067,
+  "sulphates": 0.57,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c829f"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.077,
+  "sulphates": 0.65,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a0"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.038,
+  "sulphates": 0.81,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a1"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.06,
+  "sulphates": 0.59,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a2"
+  },
+  "volatile acidity": 0.935,
+  "chlorides": 0.105,
+  "sulphates": 0.64,
+  "alcohol": 11.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a3"
+  },
+  "volatile acidity": 0.87,
+  "chlorides": 0.096,
+  "sulphates": 0.72,
+  "alcohol": 9.8,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a4"
+  },
+  "volatile acidity": 0.885,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.33,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a5"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.071,
+  "sulphates": 0.63,
+  "alcohol": 11.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a6"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.054,
+  "sulphates": 0.56,
+  "alcohol": 13.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a7"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.073,
+  "sulphates": 0.62,
+  "alcohol": 12.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a8"
+  },
+  "volatile acidity": 0.21,
+  "chlorides": 0.09,
+  "sulphates": 0.67,
+  "alcohol": 10.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82a9"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.08,
+  "sulphates": 0.62,
+  "alcohol": 10.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82aa"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ab"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.048,
+  "sulphates": 0.88,
+  "alcohol": 13.566666666666698,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ac"
+  },
+  "volatile acidity": 0.66,
+  "chlorides": 0.039,
+  "sulphates": 0.47,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ad"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.071,
+  "sulphates": 0.87,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ae"
+  },
+  "volatile acidity": 0.44,
+  "chlorides": 0.092,
+  "sulphates": 0.99,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82af"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b0"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.055,
+  "sulphates": 0.59,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b1"
+  },
+  "volatile acidity": 1.04,
+  "chlorides": 0.067,
+  "sulphates": 0.57,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b2"
+  },
+  "volatile acidity": 0.67,
+  "chlorides": 0.057,
+  "sulphates": 0.56,
+  "alcohol": 11.8,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b3"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.09,
+  "sulphates": 0.64,
+  "alcohol": 12.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b4"
+  },
+  "volatile acidity": 0.84,
+  "chlorides": 0.059,
+  "sulphates": 0.56,
+  "alcohol": 12.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b5"
+  },
+  "volatile acidity": 0.54,
+  "chlorides": 0.077,
+  "sulphates": 0.91,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b6"
+  },
+  "volatile acidity": 0.935,
+  "chlorides": 0.105,
+  "sulphates": 0.64,
+  "alcohol": 11.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b7"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.078,
+  "sulphates": 0.77,
+  "alcohol": 12.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b8"
+  },
+  "volatile acidity": 0.26,
+  "chlorides": 0.073,
+  "sulphates": 0.78,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82b9"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.104,
+  "sulphates": 0.78,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ba"
+  },
+  "volatile acidity": 0.955,
+  "chlorides": 0.075,
+  "sulphates": 0.44,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82bb"
+  },
+  "volatile acidity": 0.415,
+  "chlorides": 0.085,
+  "sulphates": 0.8,
+  "alcohol": 10,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82bc"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.102,
+  "sulphates": 0.58,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82bd"
+  },
+  "volatile acidity": 0.44,
+  "chlorides": 0.092,
+  "sulphates": 0.99,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82be"
+  },
+  "volatile acidity": 0.68,
+  "chlorides": 0.07,
+  "sulphates": 0.6,
+  "alcohol": 10.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82bf"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.06,
+  "sulphates": 0.59,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c0"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.67,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c1"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.078,
+  "sulphates": 0.86,
+  "alcohol": 12.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c2"
+  },
+  "volatile acidity": 0.34,
+  "chlorides": 0.064,
+  "sulphates": 0.77,
+  "alcohol": 12.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c3"
+  },
+  "volatile acidity": 0.85,
+  "chlorides": 0.093,
+  "sulphates": 0.54,
+  "alcohol": 10.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c4"
+  },
+  "volatile acidity": 0.83,
+  "chlorides": 0.095,
+  "sulphates": 0.6,
+  "alcohol": 10.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c5"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.06,
+  "sulphates": 0.83,
+  "alcohol": 10.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c6"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.062,
+  "sulphates": 0.76,
+  "alcohol": 11.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c7"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.104,
+  "sulphates": 0.78,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c8"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.073,
+  "sulphates": 0.82,
+  "alcohol": 12.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82c9"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.068,
+  "sulphates": 0.57,
+  "alcohol": 11.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ca"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.066,
+  "sulphates": 0.66,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82cb"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82cc"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.065,
+  "sulphates": 0.92,
+  "alcohol": 10.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82cd"
+  },
+  "volatile acidity": 1.09,
+  "chlorides": 0.061,
+  "sulphates": 0.43,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ce"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.078,
+  "sulphates": 0.77,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82cf"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.088,
+  "sulphates": 0.51,
+  "alcohol": 9.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d0"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.147,
+  "sulphates": 0.86,
+  "alcohol": 9.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d1"
+  },
+  "volatile acidity": 0.29,
+  "chlorides": 0.048,
+  "sulphates": 1.01,
+  "alcohol": 12.4,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d2"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.123,
+  "sulphates": 0.67,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d3"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.062,
+  "sulphates": 0.57,
+  "alcohol": 11.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d4"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.055,
+  "sulphates": 0.59,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d5"
+  },
+  "volatile acidity": 0.34,
+  "chlorides": 0.055,
+  "sulphates": 0.66,
+  "alcohol": 11.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d6"
+  },
+  "volatile acidity": 0.84,
+  "chlorides": 0.059,
+  "sulphates": 0.56,
+  "alcohol": 12.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d7"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.61,
+  "sulphates": 2,
+  "alcohol": 9.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d8"
+  },
+  "volatile acidity": 0.66,
+  "chlorides": 0.077,
+  "sulphates": 0.55,
+  "alcohol": 10.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82d9"
+  },
+  "volatile acidity": 0.44,
+  "chlorides": 0.077,
+  "sulphates": 0.69,
+  "alcohol": 11,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82da"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.2,
+  "sulphates": 0.63,
+  "alcohol": 8.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82db"
+  },
+  "volatile acidity": 0.28,
+  "chlorides": 0.092,
+  "sulphates": 0.75,
+  "alcohol": 10.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82dc"
+  },
+  "volatile acidity": 0.36,
+  "chlorides": 0.098,
+  "sulphates": 0.6,
+  "alcohol": 10.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82dd"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.055,
+  "sulphates": 0.59,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82de"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.055,
+  "sulphates": 0.59,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82df"
+  },
+  "volatile acidity": 0.885,
+  "chlorides": 0.086,
+  "sulphates": 0.46,
+  "alcohol": 10,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e0"
+  },
+  "volatile acidity": 0.65,
+  "chlorides": 0.065,
+  "sulphates": 0.47,
+  "alcohol": 10,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e1"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e2"
+  },
+  "volatile acidity": 0.54,
+  "chlorides": 0.088,
+  "sulphates": 1.18,
+  "alcohol": 10.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e3"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.068,
+  "sulphates": 0.59,
+  "alcohol": 12.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e4"
+  },
+  "volatile acidity": 0.56,
+  "chlorides": 0.114,
+  "sulphates": 0.66,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e5"
+  },
+  "volatile acidity": 0.735,
+  "chlorides": 0.1,
+  "sulphates": 0.64,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e6"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.055,
+  "sulphates": 0.79,
+  "alcohol": 13.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e7"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.062,
+  "sulphates": 0.57,
+  "alcohol": 11.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e8"
+  },
+  "volatile acidity": 0.625,
+  "chlorides": 0.08,
+  "sulphates": 1.12,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82e9"
+  },
+  "volatile acidity": 0.34,
+  "chlorides": 0.052,
+  "sulphates": 0.69,
+  "alcohol": 12.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ea"
+  },
+  "volatile acidity": 0.36,
+  "chlorides": 0.111,
+  "sulphates": 0.62,
+  "alcohol": 11.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82eb"
+  },
+  "volatile acidity": 0.685,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.55,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ec"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.072,
+  "sulphates": 0.56,
+  "alcohol": 10,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ed"
+  },
+  "volatile acidity": 0.55,
+  "chlorides": 0.072,
+  "sulphates": 0.48,
+  "alcohol": 9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ee"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.066,
+  "sulphates": 0.66,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ef"
+  },
+  "volatile acidity": 1.58,
+  "chlorides": 0.1369999999999999,
+  "sulphates": 0.4,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f0"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.061,
+  "sulphates": 1.1,
+  "alcohol": 10,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f1"
+  },
+  "volatile acidity": 0.75,
+  "chlorides": 0.086,
+  "sulphates": 0.52,
+  "alcohol": 10.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f2"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.165,
+  "sulphates": 0.86,
+  "alcohol": 9.2,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f3"
+  },
+  "volatile acidity": 0.57,
+  "chlorides": 0.067,
+  "sulphates": 0.68,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f4"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.147,
+  "sulphates": 0.86,
+  "alcohol": 9.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f5"
+  },
+  "volatile acidity": 0.69,
+  "chlorides": 0.069,
+  "sulphates": 0.51,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f6"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f7"
+  },
+  "volatile acidity": 0.955,
+  "chlorides": 0.075,
+  "sulphates": 0.44,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f8"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.68,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82f9"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.078,
+  "sulphates": 0.77,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82fa"
+  },
+  "volatile acidity": 0.43,
+  "chlorides": 0.071,
+  "sulphates": 0.71,
+  "alcohol": 10.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82fb"
+  },
+  "volatile acidity": 0.69,
+  "chlorides": 0.091,
+  "sulphates": 0.6,
+  "alcohol": 11.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82fc"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.07,
+  "sulphates": 0.72,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82fd"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82fe"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.077,
+  "sulphates": 1.05,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c82ff"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.061,
+  "sulphates": 0.49,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8300"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.078,
+  "sulphates": 0.77,
+  "alcohol": 12.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8301"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.123,
+  "sulphates": 0.67,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8302"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.086,
+  "sulphates": 0.53,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8303"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.054,
+  "sulphates": 0.68,
+  "alcohol": 10.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8304"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.073,
+  "sulphates": 0.7,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8305"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.057,
+  "sulphates": 0.89,
+  "alcohol": 11.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8306"
+  },
+  "volatile acidity": 0.56,
+  "chlorides": 0.079,
+  "sulphates": 0.54,
+  "alcohol": 11.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8307"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.071,
+  "sulphates": 0.49,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8308"
+  },
+  "volatile acidity": 0.885,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.33,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8309"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.054,
+  "sulphates": 0.56,
+  "alcohol": 13.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c830a"
+  },
+  "volatile acidity": 0.48,
+  "chlorides": 0.1009999999999999,
+  "sulphates": 0.59,
+  "alcohol": 12.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c830b"
+  },
+  "volatile acidity": 0.69,
+  "chlorides": 0.088,
+  "sulphates": 0.62,
+  "alcohol": 10.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c830c"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.68,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c830d"
+  },
+  "volatile acidity": 0.67,
+  "chlorides": 0.057,
+  "sulphates": 0.56,
+  "alcohol": 11.8,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c830e"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c830f"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.071,
+  "sulphates": 0.73,
+  "alcohol": 10.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8310"
+  },
+  "volatile acidity": 0.56,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.44,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8311"
+  },
+  "volatile acidity": 0.29,
+  "chlorides": 0.048,
+  "sulphates": 1.01,
+  "alcohol": 12.4,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8312"
+  },
+  "volatile acidity": 0.5,
+  "chlorides": 0.103,
+  "sulphates": 0.52,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8313"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8314"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8315"
+  },
+  "volatile acidity": 0.36,
+  "chlorides": 0.062,
+  "sulphates": 0.67,
+  "alcohol": 10.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8316"
+  },
+  "volatile acidity": 0.44,
+  "chlorides": 0.107,
+  "sulphates": 0.83,
+  "alcohol": 11.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8317"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.59,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8318"
+  },
+  "volatile acidity": 0.395,
+  "chlorides": 0.0559999999999999,
+  "sulphates": 0.67,
+  "alcohol": 12.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8319"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.074,
+  "sulphates": 0.74,
+  "alcohol": 12.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c831a"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.077,
+  "sulphates": 0.6,
+  "alcohol": 10.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c831b"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c831c"
+  },
+  "volatile acidity": 0.675,
+  "chlorides": 0.084,
+  "sulphates": 0.53,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c831d"
+  },
+  "volatile acidity": 0.68,
+  "chlorides": 0.072,
+  "sulphates": 1.08,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c831e"
+  },
+  "volatile acidity": 0.975,
+  "chlorides": 0.087,
+  "sulphates": 0.6,
+  "alcohol": 9.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c831f"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.084,
+  "sulphates": 0.61,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8320"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.07,
+  "sulphates": 0.57,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8321"
+  },
+  "volatile acidity": 0.43,
+  "chlorides": 0.106,
+  "sulphates": 0.5,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8322"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.055,
+  "sulphates": 0.79,
+  "alcohol": 13.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8323"
+  },
+  "volatile acidity": 0.645,
+  "chlorides": 0.075,
+  "sulphates": 0.71,
+  "alcohol": 10.2,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8324"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.088,
+  "sulphates": 0.56,
+  "alcohol": 10.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8325"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.06,
+  "sulphates": 0.59,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8326"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.057,
+  "sulphates": 0.89,
+  "alcohol": 11.1,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8327"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.06,
+  "sulphates": 0.59,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8328"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.065,
+  "sulphates": 0.79,
+  "alcohol": 14,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8329"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.0559999999999999,
+  "sulphates": 0.82,
+  "alcohol": 10.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c832a"
+  },
+  "volatile acidity": 0.57,
+  "chlorides": 0.12,
+  "sulphates": 0.71,
+  "alcohol": 11.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c832b"
+  },
+  "volatile acidity": 0.98,
+  "chlorides": 0.061,
+  "sulphates": 0.55,
+  "alcohol": 9.7,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c832c"
+  },
+  "volatile acidity": 0.685,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.55,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c832d"
+  },
+  "volatile acidity": 0.48,
+  "chlorides": 0.07,
+  "sulphates": 0.55,
+  "alcohol": 10.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c832e"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.147,
+  "sulphates": 0.86,
+  "alcohol": 9.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c832f"
+  },
+  "volatile acidity": 0.865,
+  "chlorides": 0.071,
+  "sulphates": 0.49,
+  "alcohol": 12.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8330"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.074,
+  "sulphates": 1.13,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8331"
+  },
+  "volatile acidity": 0.885,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.33,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8332"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.081,
+  "sulphates": 0.78,
+  "alcohol": 10.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8333"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.05,
+  "sulphates": 0.51,
+  "alcohol": 12.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8334"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.68,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8335"
+  },
+  "volatile acidity": 0.48,
+  "chlorides": 0.085,
+  "sulphates": 0.61,
+  "alcohol": 10.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8336"
+  },
+  "volatile acidity": 1.58,
+  "chlorides": 0.1369999999999999,
+  "sulphates": 0.4,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8337"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.59,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8338"
+  },
+  "volatile acidity": 0.36,
+  "chlorides": 0.074,
+  "sulphates": 0.7,
+  "alcohol": 11.4,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8339"
+  },
+  "volatile acidity": 0.43,
+  "chlorides": 0.078,
+  "sulphates": 0.6,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c833a"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.073,
+  "sulphates": 0.73,
+  "alcohol": 11.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c833b"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.093,
+  "sulphates": 0.65,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c833c"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.68,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c833d"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c833e"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.358,
+  "sulphates": 1.08,
+  "alcohol": 9.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c833f"
+  },
+  "volatile acidity": 1.04,
+  "chlorides": 0.067,
+  "sulphates": 0.57,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8340"
+  },
+  "volatile acidity": 0.635,
+  "chlorides": 0.08,
+  "sulphates": 0.69,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8341"
+  },
+  "volatile acidity": 0.36,
+  "chlorides": 0.095,
+  "sulphates": 0.57,
+  "alcohol": 11.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8342"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.071,
+  "sulphates": 0.87,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8343"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.068,
+  "sulphates": 0.69,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8344"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.064,
+  "sulphates": 0.58,
+  "alcohol": 11.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8345"
+  },
+  "volatile acidity": 0.66,
+  "chlorides": 0.0969999999999999,
+  "sulphates": 0.54,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8346"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.073,
+  "sulphates": 0.7,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8347"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.05,
+  "sulphates": 0.56,
+  "alcohol": 12,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8348"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.044,
+  "sulphates": 0.73,
+  "alcohol": 13.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8349"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.078,
+  "sulphates": 0.86,
+  "alcohol": 12.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c834a"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.081,
+  "sulphates": 0.48,
+  "alcohol": 10.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c834b"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.045,
+  "sulphates": 0.48,
+  "alcohol": 10.5,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c834c"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.147,
+  "sulphates": 0.86,
+  "alcohol": 9.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c834d"
+  },
+  "volatile acidity": 0.48,
+  "chlorides": 0.054,
+  "sulphates": 0.62,
+  "alcohol": 12.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c834e"
+  },
+  "volatile acidity": 0.95,
+  "chlorides": 0.09,
+  "sulphates": 0.56,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c834f"
+  },
+  "volatile acidity": 0.57,
+  "chlorides": 0.076,
+  "sulphates": 0.7,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8350"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.087,
+  "sulphates": 0.61,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8351"
+  },
+  "volatile acidity": 0.63,
+  "chlorides": 0.08,
+  "sulphates": 0.58,
+  "alcohol": 9.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8352"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.05,
+  "sulphates": 0.51,
+  "alcohol": 12.3,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8353"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.121,
+  "sulphates": 0.74,
+  "alcohol": 11.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8354"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.087,
+  "sulphates": 0.77,
+  "alcohol": 10.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8355"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.102,
+  "sulphates": 0.58,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8356"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.07,
+  "sulphates": 0.57,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8357"
+  },
+  "volatile acidity": 0.74,
+  "chlorides": 0.067,
+  "sulphates": 0.57,
+  "alcohol": 11.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8358"
+  },
+  "volatile acidity": 0.33,
+  "chlorides": 0.084,
+  "sulphates": 0.74,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8359"
+  },
+  "volatile acidity": 0.87,
+  "chlorides": 0.107,
+  "sulphates": 0.46,
+  "alcohol": 9.2,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c835a"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.05,
+  "sulphates": 0.56,
+  "alcohol": 12,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c835b"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.095,
+  "sulphates": 0.58,
+  "alcohol": 10.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c835c"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.076,
+  "sulphates": 0.54,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c835d"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c835e"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.123,
+  "sulphates": 0.67,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c835f"
+  },
+  "volatile acidity": 0.875,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.52,
+  "alcohol": 10.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8360"
+  },
+  "volatile acidity": 0.56,
+  "chlorides": 0.078,
+  "sulphates": 0.62,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8361"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.068,
+  "sulphates": 0.82,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8362"
+  },
+  "volatile acidity": 0.54,
+  "chlorides": 0.049,
+  "sulphates": 0.58,
+  "alcohol": 11.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8363"
+  },
+  "volatile acidity": 0.54,
+  "chlorides": 0.0969999999999999,
+  "sulphates": 0.61,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8364"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.088,
+  "sulphates": 0.51,
+  "alcohol": 9.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8365"
+  },
+  "volatile acidity": 0.51,
+  "chlorides": 0.074,
+  "sulphates": 0.56,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8366"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.071,
+  "sulphates": 0.49,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8367"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.061,
+  "sulphates": 0.8,
+  "alcohol": 11.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8368"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.51,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8369"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.048,
+  "sulphates": 0.74,
+  "alcohol": 14,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c836a"
+  },
+  "volatile acidity": 1.58,
+  "chlorides": 0.1369999999999999,
+  "sulphates": 0.4,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c836b"
+  },
+  "volatile acidity": 0.975,
+  "chlorides": 0.087,
+  "sulphates": 0.6,
+  "alcohol": 9.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c836c"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.073,
+  "sulphates": 0.7,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c836d"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.066,
+  "sulphates": 0.6,
+  "alcohol": 13,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c836e"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.074,
+  "sulphates": 1.13,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c836f"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.332,
+  "sulphates": 0.9,
+  "alcohol": 10.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8370"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.081,
+  "sulphates": 0.6,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8371"
+  },
+  "volatile acidity": 0.74,
+  "chlorides": 0.094,
+  "sulphates": 0.5,
+  "alcohol": 9.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8372"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8373"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.091,
+  "sulphates": 0.56,
+  "alcohol": 10.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8374"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.52,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8375"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.073,
+  "sulphates": 0.7,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8376"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.11,
+  "sulphates": 0.7,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8377"
+  },
+  "volatile acidity": 0.2,
+  "chlorides": 0.054,
+  "sulphates": 0.8,
+  "alcohol": 11.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8378"
+  },
+  "volatile acidity": 0.64,
+  "chlorides": 0.084,
+  "sulphates": 0.54,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8379"
+  },
+  "volatile acidity": 0.78,
+  "chlorides": 0.093,
+  "sulphates": 0.47,
+  "alcohol": 10,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c837a"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.066,
+  "sulphates": 0.72,
+  "alcohol": 11.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c837b"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.095,
+  "sulphates": 0.76,
+  "alcohol": 9.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c837c"
+  },
+  "volatile acidity": 0.885,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.33,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c837d"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.2,
+  "sulphates": 0.63,
+  "alcohol": 8.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c837e"
+  },
+  "volatile acidity": 0.55,
+  "chlorides": 0.072,
+  "sulphates": 0.48,
+  "alcohol": 9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c837f"
+  },
+  "volatile acidity": 0.18,
+  "chlorides": 0.049,
+  "sulphates": 0.44,
+  "alcohol": 12.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8380"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.064,
+  "sulphates": 0.61,
+  "alcohol": 12.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8381"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.05,
+  "sulphates": 0.64,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8382"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.038,
+  "sulphates": 0.81,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8383"
+  },
+  "volatile acidity": 0.51,
+  "chlorides": 0.042,
+  "sulphates": 0.87,
+  "alcohol": 12.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8384"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.079,
+  "sulphates": 0.75,
+  "alcohol": 10.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8385"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.07,
+  "sulphates": 0.57,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8386"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.071,
+  "sulphates": 0.69,
+  "alcohol": 9.2,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8387"
+  },
+  "volatile acidity": 0.85,
+  "chlorides": 0.045,
+  "sulphates": 0.82,
+  "alcohol": 12.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8388"
+  },
+  "volatile acidity": 0.48,
+  "chlorides": 0.054,
+  "sulphates": 0.62,
+  "alcohol": 12.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8389"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c838a"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.073,
+  "sulphates": 0.7,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c838b"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c838c"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.071,
+  "sulphates": 0.63,
+  "alcohol": 12,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c838d"
+  },
+  "volatile acidity": 0.955,
+  "chlorides": 0.075,
+  "sulphates": 0.44,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c838e"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.2,
+  "sulphates": 0.63,
+  "alcohol": 8.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c838f"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.075,
+  "sulphates": 0.83,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8390"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.05,
+  "sulphates": 0.64,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8391"
+  },
+  "volatile acidity": 0.785,
+  "chlorides": 0.06,
+  "sulphates": 0.61,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8392"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.07,
+  "sulphates": 0.65,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8393"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.213,
+  "sulphates": 0.62,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8394"
+  },
+  "volatile acidity": 0.43,
+  "chlorides": 0.109,
+  "sulphates": 0.85,
+  "alcohol": 10.4,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8395"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8396"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.092,
+  "sulphates": 0.52,
+  "alcohol": 9.2,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8397"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.074,
+  "sulphates": 0.81,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8398"
+  },
+  "volatile acidity": 0.6,
+  "chlorides": 0.08,
+  "sulphates": 0.49,
+  "alcohol": 9.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8399"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.05,
+  "sulphates": 0.56,
+  "alcohol": 12,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c839a"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.093,
+  "sulphates": 0.76,
+  "alcohol": 11.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c839b"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.052,
+  "sulphates": 0.9,
+  "alcohol": 13.4,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c839c"
+  },
+  "volatile acidity": 0.26,
+  "chlorides": 0.06,
+  "sulphates": 0.54,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c839d"
+  },
+  "volatile acidity": 0.27,
+  "chlorides": 0.05,
+  "sulphates": 0.64,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c839e"
+  },
+  "volatile acidity": 0.29,
+  "chlorides": 0.096,
+  "sulphates": 0.67,
+  "alcohol": 10.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c839f"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.467,
+  "sulphates": 1.31,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a0"
+  },
+  "volatile acidity": 0.61,
+  "chlorides": 0.088,
+  "sulphates": 0.51,
+  "alcohol": 9.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a1"
+  },
+  "volatile acidity": 0.65,
+  "chlorides": 0.11,
+  "sulphates": 0.64,
+  "alcohol": 10.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a2"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.062,
+  "sulphates": 0.57,
+  "alcohol": 11.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a3"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a4"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.083,
+  "sulphates": 0.55,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a5"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a6"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.098,
+  "sulphates": 0.64,
+  "alcohol": 11.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a7"
+  },
+  "volatile acidity": 0.7,
+  "chlorides": 0.099,
+  "sulphates": 0.7,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a8"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83a9"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83aa"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.08,
+  "sulphates": 0.62,
+  "alcohol": 10.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ab"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.61,
+  "sulphates": 2,
+  "alcohol": 9.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ac"
+  },
+  "volatile acidity": 0.44,
+  "chlorides": 0.074,
+  "sulphates": 0.85,
+  "alcohol": 12,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ad"
+  },
+  "volatile acidity": 0.32,
+  "chlorides": 0.073,
+  "sulphates": 0.82,
+  "alcohol": 12.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ae"
+  },
+  "volatile acidity": 0.635,
+  "chlorides": 0.08,
+  "sulphates": 0.69,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83af"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.076,
+  "sulphates": 0.57,
+  "alcohol": 10.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b0"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b1"
+  },
+  "volatile acidity": 0.625,
+  "chlorides": 0.08,
+  "sulphates": 1.12,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b2"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.072,
+  "sulphates": 0.78,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b3"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.062,
+  "sulphates": 0.6,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b4"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.075,
+  "sulphates": 0.57,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b5"
+  },
+  "volatile acidity": 0.91,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.43,
+  "alcohol": 10.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b6"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.109,
+  "sulphates": 0.79,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b7"
+  },
+  "volatile acidity": 0.5,
+  "chlorides": 0.071,
+  "sulphates": 0.72,
+  "alcohol": 9.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b8"
+  },
+  "volatile acidity": 0.85,
+  "chlorides": 0.045,
+  "sulphates": 0.82,
+  "alcohol": 12.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83b9"
+  },
+  "volatile acidity": 0.24,
+  "chlorides": 0.077,
+  "sulphates": 1.05,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ba"
+  },
+  "volatile acidity": 0.55,
+  "chlorides": 0.077,
+  "sulphates": 0.82,
+  "alcohol": 11.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83bb"
+  },
+  "volatile acidity": 1.58,
+  "chlorides": 0.1369999999999999,
+  "sulphates": 0.4,
+  "alcohol": 10.9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83bc"
+  },
+  "volatile acidity": 0.74,
+  "chlorides": 0.1,
+  "sulphates": 0.59,
+  "alcohol": 11,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83bd"
+  },
+  "volatile acidity": 0.66,
+  "chlorides": 0.066,
+  "sulphates": 0.58,
+  "alcohol": 12.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83be"
+  },
+  "volatile acidity": 0.37,
+  "chlorides": 0.066,
+  "sulphates": 0.6,
+  "alcohol": 13,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83bf"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.068,
+  "sulphates": 0.6,
+  "alcohol": 11.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c0"
+  },
+  "volatile acidity": 0.885,
+  "chlorides": 0.084,
+  "sulphates": 0.53,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c1"
+  },
+  "volatile acidity": 0.28,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 1.36,
+  "alcohol": 9.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c2"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.048,
+  "sulphates": 0.74,
+  "alcohol": 14,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c3"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.07,
+  "sulphates": 0.65,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c4"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.06,
+  "sulphates": 0.83,
+  "alcohol": 10.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c5"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c6"
+  },
+  "volatile acidity": 0.625,
+  "chlorides": 0.08,
+  "sulphates": 1.12,
+  "alcohol": 9.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c7"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c8"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.086,
+  "sulphates": 0.69,
+  "alcohol": 13.4,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83c9"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.078,
+  "sulphates": 0.77,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ca"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.078,
+  "sulphates": 0.52,
+  "alcohol": 9.9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83cb"
+  },
+  "volatile acidity": 0.76,
+  "chlorides": 0.078,
+  "sulphates": 0.63,
+  "alcohol": 9.95,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83cc"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.074,
+  "sulphates": 0.57,
+  "alcohol": 9,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83cd"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.054,
+  "sulphates": 0.56,
+  "alcohol": 13.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ce"
+  },
+  "volatile acidity": 0.875,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.52,
+  "alcohol": 10.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83cf"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d0"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.091,
+  "sulphates": 0.86,
+  "alcohol": 10.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d1"
+  },
+  "volatile acidity": 0.28,
+  "chlorides": 0.074,
+  "sulphates": 0.66,
+  "alcohol": 9.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d2"
+  },
+  "volatile acidity": 0.68,
+  "chlorides": 0.072,
+  "sulphates": 1.08,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d3"
+  },
+  "volatile acidity": 0.36,
+  "chlorides": 0.08,
+  "sulphates": 0.5,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d4"
+  },
+  "volatile acidity": 0.57,
+  "chlorides": 0.073,
+  "sulphates": 0.57,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d5"
+  },
+  "volatile acidity": 0.28,
+  "chlorides": 0.105,
+  "sulphates": 0.63,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d6"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.044,
+  "sulphates": 0.73,
+  "alcohol": 13.6,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d7"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.085,
+  "sulphates": 0.8,
+  "alcohol": 10.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d8"
+  },
+  "volatile acidity": 0.98,
+  "chlorides": 0.061,
+  "sulphates": 0.55,
+  "alcohol": 9.7,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83d9"
+  },
+  "volatile acidity": 0.695,
+  "chlorides": 0.128,
+  "sulphates": 0.84,
+  "alcohol": 12.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83da"
+  },
+  "volatile acidity": 0.675,
+  "chlorides": 0.084,
+  "sulphates": 0.53,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83db"
+  },
+  "volatile acidity": 1.09,
+  "chlorides": 0.061,
+  "sulphates": 0.43,
+  "alcohol": 11.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83dc"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.07,
+  "sulphates": 0.65,
+  "alcohol": 11,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83dd"
+  },
+  "volatile acidity": 0.65,
+  "chlorides": 0.089,
+  "sulphates": 0.55,
+  "alcohol": 9.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83de"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.093,
+  "sulphates": 0.66,
+  "alcohol": 10.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83df"
+  },
+  "volatile acidity": 0.575,
+  "chlorides": 0.077,
+  "sulphates": 0.51,
+  "alcohol": 9.2,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e0"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.083,
+  "sulphates": 0.55,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e1"
+  },
+  "volatile acidity": 0.765,
+  "chlorides": 0.078,
+  "sulphates": 0.54,
+  "alcohol": 9.7,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e2"
+  },
+  "volatile acidity": 0.62,
+  "chlorides": 0.072,
+  "sulphates": 0.89,
+  "alcohol": 11.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e3"
+  },
+  "volatile acidity": 0.675,
+  "chlorides": 0.084,
+  "sulphates": 0.53,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e4"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.68,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e5"
+  },
+  "volatile acidity": 0.38,
+  "chlorides": 0.066,
+  "sulphates": 0.73,
+  "alcohol": 9.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e6"
+  },
+  "volatile acidity": 0.74,
+  "chlorides": 0.0409999999999999,
+  "sulphates": 0.59,
+  "alcohol": 12.5,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e7"
+  },
+  "volatile acidity": 0.88,
+  "chlorides": 0.079,
+  "sulphates": 0.5,
+  "alcohol": 11.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e8"
+  },
+  "volatile acidity": 0.5,
+  "chlorides": 0.077,
+  "sulphates": 0.62,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83e9"
+  },
+  "volatile acidity": 0.48,
+  "chlorides": 0.066,
+  "sulphates": 0.67,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ea"
+  },
+  "volatile acidity": 0.51,
+  "chlorides": 0.107,
+  "sulphates": 0.66,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83eb"
+  },
+  "volatile acidity": 0.26,
+  "chlorides": 0.083,
+  "sulphates": 0.63,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ec"
+  },
+  "volatile acidity": 0.67,
+  "chlorides": 0.068,
+  "sulphates": 0.72,
+  "alcohol": 11.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ed"
+  },
+  "volatile acidity": 0.28,
+  "chlorides": 0.074,
+  "sulphates": 0.66,
+  "alcohol": 9.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ee"
+  },
+  "volatile acidity": 0.6,
+  "chlorides": 0.086,
+  "sulphates": 0.6,
+  "alcohol": 10.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ef"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.1159999999999999,
+  "sulphates": 0.75,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f0"
+  },
+  "volatile acidity": 0.845,
+  "chlorides": 0.07,
+  "sulphates": 0.58,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f1"
+  },
+  "volatile acidity": 0.34,
+  "chlorides": 0.065,
+  "sulphates": 0.54,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f2"
+  },
+  "volatile acidity": 0.935,
+  "chlorides": 0.105,
+  "sulphates": 0.64,
+  "alcohol": 11.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f3"
+  },
+  "volatile acidity": 1.04,
+  "chlorides": 0.067,
+  "sulphates": 0.57,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f4"
+  },
+  "volatile acidity": 0.67,
+  "chlorides": 0.057,
+  "sulphates": 0.56,
+  "alcohol": 11.8,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f5"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0579999999999999,
+  "sulphates": 0.68,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f6"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.109,
+  "sulphates": 0.79,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f7"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.095,
+  "sulphates": 0.77,
+  "alcohol": 10.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f8"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.123,
+  "sulphates": 0.67,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83f9"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.085,
+  "sulphates": 0.68,
+  "alcohol": 12.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83fa"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83fb"
+  },
+  "volatile acidity": 1.04,
+  "chlorides": 0.067,
+  "sulphates": 0.57,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83fc"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.054,
+  "sulphates": 0.56,
+  "alcohol": 13.1,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83fd"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.048,
+  "sulphates": 0.74,
+  "alcohol": 14,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83fe"
+  },
+  "volatile acidity": 0.4,
+  "chlorides": 0.05,
+  "sulphates": 0.56,
+  "alcohol": 12,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c83ff"
+  },
+  "volatile acidity": 0.53,
+  "chlorides": 0.123,
+  "sulphates": 0.67,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8400"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.109,
+  "sulphates": 0.79,
+  "alcohol": 11.8,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8401"
+  },
+  "volatile acidity": 0.49,
+  "chlorides": 0.072,
+  "sulphates": 0.78,
+  "alcohol": 12.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8402"
+  },
+  "volatile acidity": 0.875,
+  "chlorides": 0.0819999999999999,
+  "sulphates": 0.52,
+  "alcohol": 10.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8403"
+  },
+  "volatile acidity": 0.42,
+  "chlorides": 0.068,
+  "sulphates": 0.69,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8404"
+  },
+  "volatile acidity": 0.18,
+  "chlorides": 0.049,
+  "sulphates": 0.93,
+  "alcohol": 11.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8405"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.086,
+  "sulphates": 0.66,
+  "alcohol": 11.6,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8406"
+  },
+  "volatile acidity": 0.5,
+  "chlorides": 0.178,
+  "sulphates": 0.87,
+  "alcohol": 9.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8407"
+  },
+  "volatile acidity": 0.58,
+  "chlorides": 0.088,
+  "sulphates": 0.56,
+  "alcohol": 10.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8408"
+  },
+  "volatile acidity": 0.45,
+  "chlorides": 0.078,
+  "sulphates": 1.11,
+  "alcohol": 11,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8409"
+  },
+  "volatile acidity": 0.675,
+  "chlorides": 0.084,
+  "sulphates": 0.53,
+  "alcohol": 9.2,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c840a"
+  },
+  "volatile acidity": 0.52,
+  "chlorides": 0.61,
+  "sulphates": 2,
+  "alcohol": 9.4,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c840b"
+  },
+  "volatile acidity": 0.63,
+  "chlorides": 0.088,
+  "sulphates": 0.79,
+  "alcohol": 9.3,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c840c"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.0559999999999999,
+  "sulphates": 0.69,
+  "alcohol": 11.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c840d"
+  },
+  "volatile acidity": 0.3,
+  "chlorides": 0.08,
+  "sulphates": 0.92,
+  "alcohol": 11.7,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c840e"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.083,
+  "sulphates": 0.52,
+  "alcohol": 9.4,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c840f"
+  },
+  "volatile acidity": 0.31,
+  "chlorides": 0.08,
+  "sulphates": 0.67,
+  "alcohol": 9.7,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8410"
+  },
+  "volatile acidity": 0.41,
+  "chlorides": 0.095,
+  "sulphates": 0.76,
+  "alcohol": 9.9,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8411"
+  },
+  "volatile acidity": 0.47,
+  "chlorides": 0.094,
+  "sulphates": 0.59,
+  "alcohol": 9.1,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8412"
+  },
+  "volatile acidity": 0.59,
+  "chlorides": 0.065,
+  "sulphates": 0.92,
+  "alcohol": 10.5,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8413"
+  },
+  "volatile acidity": 0.39,
+  "chlorides": 0.071,
+  "sulphates": 0.87,
+  "alcohol": 11.2,
+  "quality": "2"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8414"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.07,
+  "sulphates": 0.57,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8415"
+  },
+  "volatile acidity": 1.04,
+  "chlorides": 0.067,
+  "sulphates": 0.57,
+  "alcohol": 11,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8416"
+  },
+  "volatile acidity": 0.73,
+  "chlorides": 0.081,
+  "sulphates": 0.46,
+  "alcohol": 9.6,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8417"
+  },
+  "volatile acidity": 0.935,
+  "chlorides": 0.105,
+  "sulphates": 0.64,
+  "alcohol": 11.3,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8418"
+  },
+  "volatile acidity": 1.07,
+  "chlorides": 0.178,
+  "sulphates": 0.57,
+  "alcohol": 9,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c8419"
+  },
+  "volatile acidity": 0.46,
+  "chlorides": 0.078,
+  "sulphates": 0.54,
+  "alcohol": 9.8,
+  "quality": "1"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c841a"
+  },
+  "volatile acidity": 0.35,
+  "chlorides": 0.067,
+  "sulphates": 0.54,
+  "alcohol": 10,
+  "quality": "0"
+},
+{
+  "_id": {
+    "$oid": "657bddb9c3e29c675b0c841b"
+  },
+  "volatile acidity": 1.02,
+  "chlorides": 0.045,
+  "sulphates": 0.48,
+  "alcohol": 10.5,
+  "quality": "0"
+}]
